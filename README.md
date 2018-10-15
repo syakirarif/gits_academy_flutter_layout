@@ -1,6 +1,6 @@
 # gits_academy_flutter_layout
 
-A new Flutter application.
+A project as learning resource in GITS Codelabs on course: Flutter Responsive Layout
 
 ## Getting Started
 
